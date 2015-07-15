@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Homework\InstragramClient\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-22368cdf4e005ae56673dc222b14a85e132ad1b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Homework\InstragramClient\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-f9cef91474bf564e8fb02beb135ac002c638f704.jar" />
+    </item>
+    <item
+        jar="C:\Homework\InstragramClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Homework\InstragramClient\app\build\intermediates\pre-dexed\debug\classes-9d6af8265b032a1992e2bd2f74d93acd28dece5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.5\77bf7cacf9cefe19dc105e5425d2eb1bb5285881\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="C:\Homework\InstragramClient\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-9a3b34b39e7cf1638f5288f3848cf060162508a7.jar" />
+    </item>
+    <item
+        jar="C:\Homework\InstragramClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Homework\InstragramClient\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c294044b990c39739a05d9566c8b4b1384f566d9.jar" />
+    </item>
+    <item
+        jar="C:\Homework\InstragramClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Homework\InstragramClient\app\build\intermediates\pre-dexed\debug\classes-34764a7cd2c858723654957b82da4feaf41a8142.jar" />
+    </item>
+
+</items>
